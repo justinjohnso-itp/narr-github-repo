@@ -1,0 +1,44 @@
+:: StoryTitle
+Intro to Twine
+
+
+:: StoryData
+{
+  "ifid": "68BF1A26-53FB-4109-A1D3-A8FE0F67B5A6",
+  "format": "SugarCube",
+  "format-version": "2.37.3",
+  "start": "Start here",
+  "zoom": 1
+}
+
+
+:: Start here {"position":"700,400","size":"100,100"}
+This is my intro passage, horaay! In my kitchen, there is a [[spatula]]. A bunch of [[magnets|maaaaagnets]] are on the door of my [[fridge]].
+
+<<textbox "$food_name" "Your favorite food" "oooh">>
+
+
+:: fridge {"position":"550,650","size":"100,100"}
+Open at your own risk (or hunger). It's in the corner of the [[kitchen|Start here]]
+
+<<if $looked_at_magnets == 1>>
+Oooh look there are apples in the fridge!
+<<endif>>
+
+
+:: maaaaagnets {"position":"825,675","size":"100,100"}
+Don't remove them from the [[fridge]] unless you know what you're doing
+
+<img src="magnet.png" alt="magnet i think">
+
+hellooooo
+<<set $looked_at_magnets to 1>>
+
+
+:: oooh {"position":"875,275","size":"100,100"}
+You picked a thing!
+
+
+:: spatula {"position":"875,400","size":"100,100"}
+red, plastic, good for many things
+I got it from costco
