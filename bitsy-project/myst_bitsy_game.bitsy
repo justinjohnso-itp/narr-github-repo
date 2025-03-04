@@ -1,0 +1,800 @@
+Welcome to the Ages of Myst
+
+# BITSY VERSION 8.13
+
+! VER_MAJ 8
+! VER_MIN 13
+! ROOM_FORMAT 1
+! DLG_COMPAT 1
+! TXT_MODE 0
+
+PAL 0
+94,107,105
+149,163,166
+220,220,220
+
+PAL 1
+28,66,40
+78,117,90
+160,195,170
+
+PAL 2
+50,55,80
+85,90,120
+190,195,230
+
+PAL 3
+90,70,40
+150,130,100
+210,190,160
+
+PAL 4
+100,80,110
+150,130,160
+210,190,220
+
+PAL 5
+80,30,100
+130,60,180
+255,255,255
+
+ROOM 0
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+a,b,b,b,b,b,b,b,b,b,b,b,b,b,b,a
+a,b,b,b,b,b,b,b,b,b,b,b,b,b,b,a
+a,b,b,v,b,b,b,b,b,b,b,b,v,b,b,a
+a,b,b,b,b,b,b,b,b,b,b,b,b,b,b,a
+a,b,b,b,b,b,b,b,b,b,b,b,b,b,b,a
+a,b,b,b,b,b,b,b,b,b,b,b,b,b,b,a
+a,b,b,v,b,b,b,b,b,b,b,b,v,b,b,a
+a,b,b,b,b,b,b,b,b,b,b,b,b,b,b,a
+a,b,b,b,b,b,b,b,b,b,b,b,b,b,b,a
+a,b,b,b,b,b,b,b,b,b,b,b,b,b,b,a
+a,b,b,b,b,b,b,b,b,b,b,b,b,b,b,a
+a,b,b,b,b,b,b,b,b,b,b,b,b,b,b,a
+a,b,b,b,b,b,b,f,b,b,b,b,b,b,b,a
+a,b,b,b,c,c,c,c,c,c,c,b,b,b,b,a
+a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a
+NAME Myst Island
+EXT 3,3 1 6,8 DLG 1
+EXT 12,3 2 6,8 DLG 2
+EXT 3,7 3 7,7 DLG 3
+EXT 12,7 4 7,6 DLG 4
+PAL 0
+
+ROOM 1
+g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g
+g,h,h,h,h,h,h,h,h,h,h,h,h,h,h,g
+g,h,i,i,i,h,i,i,i,h,i,i,i,i,h,g
+g,h,i,i,i,h,i,i,i,h,i,i,i,i,h,g
+g,h,i,i,i,h,i,i,i,h,i,i,i,i,h,g
+g,h,i,i,i,h,i,i,i,h,i,i,i,i,h,g
+g,h,h,j,h,h,h,j,h,h,h,j,h,h,h,g
+g,h,i,i,i,i,i,i,i,i,i,i,i,i,h,g
+g,h,i,i,i,i,v,i,i,i,i,i,i,i,h,g
+g,h,i,i,i,i,i,i,i,i,i,i,i,i,h,g
+g,h,i,i,i,i,i,i,i,i,i,i,i,i,h,g
+g,h,h,j,h,h,h,j,h,h,h,j,h,h,h,g
+g,h,k,k,k,k,k,k,k,k,k,k,k,k,h,g
+g,h,k,k,k,k,k,k,k,k,k,k,k,k,h,g
+g,h,h,h,h,h,h,h,h,h,h,h,h,h,h,g
+g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g
+NAME Channelwood Age
+EXT 6,8 0 3,3 DLG 5
+PAL 1
+
+ROOM 2
+l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l
+l,m,m,m,m,m,m,m,m,m,m,m,m,m,m,l
+l,m,n,n,n,n,m,m,m,m,n,n,n,n,m,l
+l,m,n,n,n,n,n,n,n,n,n,n,n,n,m,l
+l,m,n,n,n,n,n,n,n,n,n,n,n,n,m,l
+l,m,n,n,o,o,o,o,o,o,o,o,n,n,m,l
+l,m,n,n,o,p,p,p,p,p,p,o,n,n,m,l
+l,m,n,n,o,p,p,p,p,p,p,o,n,n,m,l
+l,m,n,n,o,p,v,p,p,p,p,o,n,n,m,l
+l,m,n,n,o,o,o,o,o,o,o,o,n,n,m,l
+l,m,n,n,n,n,n,n,n,n,n,n,n,n,m,l
+l,m,n,n,n,n,n,n,n,n,n,n,n,n,m,l
+l,m,n,n,n,n,n,n,n,n,n,n,n,n,m,l
+l,m,n,n,n,n,n,n,n,n,n,n,n,n,m,l
+l,m,m,m,m,m,m,m,m,m,m,m,m,m,m,l
+q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q
+NAME Stoneship Age
+EXT 6,8 0 12,3 DLG 5
+PAL 2
+
+ROOM 3
+q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q
+q,r,r,r,r,r,r,r,r,r,r,r,r,r,r,q
+q,r,s,s,s,s,s,s,s,s,s,s,s,s,r,q
+q,r,s,s,s,t,t,t,t,t,t,s,s,s,r,q
+q,r,s,s,t,t,t,t,t,t,t,t,s,s,r,q
+q,r,s,s,t,t,u,u,u,u,t,t,s,s,r,q
+q,r,s,s,t,t,u,u,u,u,t,t,s,s,r,q
+q,r,s,s,t,t,u,v,u,u,t,t,s,s,r,q
+q,r,s,s,t,t,u,u,u,u,t,t,s,s,r,q
+q,r,s,s,t,t,t,t,t,t,t,t,s,s,r,q
+q,r,s,s,s,t,t,t,t,t,t,s,s,s,r,q
+q,r,s,s,s,s,s,s,s,s,s,s,s,s,r,q
+q,r,s,s,s,s,s,s,s,s,s,s,s,s,r,q
+q,r,s,s,s,s,s,s,s,s,s,s,s,s,r,q
+q,r,r,r,r,r,r,r,r,r,r,r,r,r,r,q
+q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q
+NAME Mechanical Age
+EXT 7,7 0 3,7 DLG 5
+PAL 3
+
+ROOM 4
+α,α,α,α,α,α,α,α,α,α,α,α,α,α,α,α
+α,0,0,0,0,0,0,0,0,0,0,0,0,0,0,α
+α,0,x,x,x,x,x,x,x,x,x,x,x,x,0,α
+α,0,x,x,x,x,x,x,x,x,x,x,x,x,0,α
+α,0,x,y,y,y,x,x,x,x,y,y,y,x,0,α
+α,0,x,y,y,y,x,x,x,x,y,y,y,x,0,α
+α,0,x,y,y,y,x,v,x,x,y,y,y,x,0,α
+α,0,x,y,y,y,x,x,x,x,y,y,y,x,0,α
+α,0,x,x,x,x,x,x,x,x,x,x,x,x,0,α
+α,0,x,z,z,z,x,x,x,x,z,z,z,x,0,α
+α,0,x,z,z,z,x,x,x,x,z,z,z,x,0,α
+α,0,x,z,z,z,x,x,x,x,z,z,z,x,0,α
+α,0,x,x,x,x,x,x,x,x,x,x,x,x,0,α
+α,0,x,x,x,x,x,x,x,x,x,x,x,x,0,α
+α,0,0,0,0,0,0,0,0,0,0,0,0,0,0,α
+α,α,α,α,α,α,α,α,α,α,α,α,α,α,α,α
+NAME Selenitic Age
+EXT 7,6 0 12,7 DLG 5
+PAL 4
+
+TIL a
+11010111
+10110101
+11101011
+10111101
+11011101
+10101110
+11101011
+11110101
+NAME myst_wall
+WAL true
+
+TIL b
+00101000
+01010100
+10010010
+01001001
+10100100
+00010010
+01001001
+00100100
+NAME myst_ground
+WAL false
+
+TIL c
+10101010
+11111111
+10000001
+11111111
+10000001
+11111111
+10101010
+11111111
+NAME myst_steps
+WAL false
+
+TIL d
+11111111
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+11111111
+NAME pillar_base
+WAL true
+
+TIL e
+11111111
+10000001
+10000001
+10111101
+10111101
+10000001
+10000001
+11111111
+NAME pillar_empty
+WAL false
+
+TIL f
+11111111
+10000001
+10111101
+10100101
+10100101
+10111101
+10000001
+11111111
+NAME observatory_door
+WAL false
+
+TIL g
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+NAME channelwood_wall
+WAL true
+
+TIL h
+11111111
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+11111111
+NAME wood_platform
+WAL false
+
+TIL i
+01111110
+01101010
+01011110
+01001110
+01101010
+01111010
+01101110
+01111110
+NAME tree_trunk
+WAL false
+
+TIL j
+11111111
+11000011
+11000011
+11000011
+11000011
+11000011
+11000011
+11111111
+NAME wood_walkway
+WAL false
+
+TIL k
+01010101
+10101010
+01010101
+00101010
+10101010
+01010100
+10101010
+01010101
+NAME water
+WAL false
+
+TIL l
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+NAME stoneship_wall
+WAL true
+
+TIL m
+11100111
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+11100111
+NAME stoneship_rock
+WAL false
+
+TIL n
+01010110
+10001001
+01100101
+10010010
+01101001
+10000110
+01010101
+10101010
+NAME sea
+WAL false
+
+TIL o
+11111111
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+11111111
+NAME ship_hull
+WAL false
+
+TIL p
+11100111
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+11100111
+NAME ship_deck
+WAL false
+
+TIL q
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+NAME mechanical_wall
+WAL true
+
+TIL r
+11111111
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+11111111
+NAME fortress_outer
+WAL false
+
+TIL s
+00000000
+00000000
+00011000
+00111100
+00111100
+00011000
+00000000
+00000000
+NAME fortress_ground
+WAL false
+
+TIL t
+11111111
+10000001
+10000001
+10000001
+10000001
+10000001
+10000001
+11111111
+NAME fortress_inner
+WAL false
+
+TIL u
+01111110
+10011001
+10111101
+11000011
+11000011
+10111101
+10011001
+01111110
+NAME gear
+WAL false
+
+TIL α
+11111111
+11111111
+11111111
+NaNNaNNaNNaNNaNNaNNaNNaN
+NaNNaNNaNNaNNaNNaNNaNNaN
+NaNNaNNaNNaNNaNNaNNaNNaN
+NaNNaNNaNNaNNaNNaNNaNNaN
+11111111
+NAME cave_wall
+WAL false
+
+TIL x
+00000000
+00000000
+00000000
+00111100
+00111100
+00000000
+00000000
+00000000
+NAME selenitic_ground
+WAL false
+
+TIL y
+00111100
+01001010
+10010001
+10100101
+10100101
+10010001
+01001010
+00111100
+NAME crystal
+WAL false
+
+TIL z
+11111111
+10101001
+10010101
+10100101
+10100101
+10010101
+10101001
+11111111
+NAME sound_chamber
+WAL false
+
+TIL v
+00111100
+01111110
+01110110
+01101110
+01101110
+01110110
+01111110
+00111100
+NAME linking_book
+WAL false
+COL 5
+
+SPR A
+00011000
+00111100
+01111110
+01011010
+00111100
+00111100
+01000010
+01100110
+NAME player
+DLG 100
+POS 0 7,7
+
+SPR i
+00011000
+00111100
+01111110
+01011010
+01111110
+00111100
+01000010
+01100110
+NAME The Traveler
+DLG 6
+POS 0 7,13
+COL 5
+
+SPR j
+11111111
+10101001
+10010101
+10101001
+10010101
+10101001
+10010101
+11111111
+NAME water_pump
+DLG 7
+POS 1 4,10
+COL 5
+
+SPR k
+11010111
+10101010
+11010111
+10101010
+11010111
+10101010
+11010111
+10101010
+NAME pipe_system
+DLG 8
+POS 1 12,10
+COL 5
+
+SPR l
+01111110
+01010110
+01111110
+01010010
+01111110
+01010010
+01111110
+01010010
+NAME elevator
+DLG 9
+POS 1 4,5
+COL 5
+
+SPR m
+00011000
+00111100
+01111110
+01111110
+11111111
+11101111
+11000011
+11111111
+NAME lighthouse
+DLG 10
+POS 2 4,3
+COL 5
+
+SPR n
+01111110
+10000001
+10001001
+10011001
+10110001
+10000001
+10000001
+01111110
+NAME compass
+DLG 11
+POS 2 12,3
+COL 5
+
+SPR o
+00111100
+01111110
+01000010
+11011011
+11011011
+01000010
+01111110
+00111100
+NAME telescope
+DLG 12
+POS 2 8,3
+COL 5
+
+SPR p
+11111111
+10011001
+10100101
+10011001
+10100101
+10011001
+10100101
+11111111
+NAME rotation_controls
+DLG 13
+POS 3 4,9
+COL 5
+
+SPR q
+11111111
+10101001
+10010101
+10101001
+10010101
+10101001
+10010101
+11111111
+NAME mech_elevator
+DLG 14
+POS 3 12,9
+COL 5
+
+SPR r
+01111110
+10000001
+10111101
+10100101
+10100101
+10111101
+10000001
+01111110
+NAME fortress_model
+DLG 15
+POS 3 8,4
+COL 5
+
+SPR s
+01111110
+10011001
+10100101
+10100101
+10100101
+10100101
+10011001
+01111110
+NAME sound_receiver
+DLG 16
+POS 4 4,5
+COL 5
+
+SPR t
+11111111
+10010001
+10111101
+10010001
+10111101
+10010001
+10111101
+11111111
+NAME organ_interface
+DLG 17
+POS 4 12,5
+COL 5
+
+SPR u
+00111100
+01001010
+10010001
+10100101
+10100101
+10010001
+01001010
+00111100
+NAME crystal_collector
+DLG 18
+POS 4 8,11
+COL 5
+
+ITM 0
+11111111
+10000001
+10111101
+10100101
+10100101
+10111101
+10000001
+11111111
+NAME observatory_entrance
+DLG 19
+COL 5
+
+ITM 1
+01111110
+10100101
+10011001
+10100101
+10011001
+10100101
+10011001
+01111110
+NAME tree_house
+DLG 20
+COL 5
+
+ITM 2
+11111111
+10000001
+10110101
+10101101
+10110101
+10101101
+10000001
+11111111
+NAME ship_cabin
+DLG 21
+COL 5
+
+ITM 3
+11111111
+10010001
+10101001
+10010001
+10101001
+10010001
+10101001
+11111111
+NAME control_panel
+DLG 22
+COL 5
+
+ITM 4
+11111111
+10000001
+10101001
+10010101
+10101001
+10010101
+10000001
+11111111
+NAME selenitic_map
+DLG 23
+COL 5
+
+DLG 1
+THE CHANNELWOOD AGE - Wooden walkways rising from the waters.
+
+DLG 2
+THE STONESHIP AGE - A vessel fused with a rocky island.
+
+DLG 3
+THE MECHANICAL AGE - A fortress of gears on an island.
+
+DLG 4
+THE SELENITIC AGE - A realm of crystals and sound chambers.
+
+DLG 5
+MYST ISLAND - A grassy clearing in between worlds.
+
+DLG 6
+*The Traveler looks up from his journal thoughtfully* "These books... each one a world unto itself, born from imagination and possibility. Such beauty... such wonder..."
+
+DLG 7
+An ancient wooden pump mechanism with intricate gears. Maintenance logs nearby mention "adjusting flow rates" for the hollow tree trunk waterways.
+
+DLG 8
+A pipe network runs throughout the village. Indigenous craftsmanship with later modifications. Strange symbols on junctions match The Traveler's journal.
+
+DLG 9
+A water-powered elevator system connects different levels. Various levers control water flow to raise or lower the platform. Settings marked in faded ink.
+
+DLG 10
+A tall lighthouse with a dormant beacon. The mechanism remains wound and ready. Notes mention it's connected to "powering the island's systems."
+
+DLG 11
+An unusual compass with its needle pointing to carved symbols instead of north. One symbol matches a mark found in the ship's cabin below deck.
+
+DLG 12
+A telescope aimed at specific stars. Charts nearby have constellations circled in red ink with notes about "celestial alignments critical to Age stability."
+
+DLG 13
+The fortress rotation controls have four position settings. Different alignments create defensive configurations and reveal hidden paths.
+
+DLG 14
+A precision-engineered elevator mechanism connects the fortress levels. An etched symbol matches one from The Traveler's journals.
+
+DLG 15
+A scale model shows how the fortress rotates into different configurations. Markers indicate defensive positions and "safe zones" during rotation.
+
+DLG 16
+This device analyzes sound frequencies from around the Age. Notes describe it as "a tuning mechanism for natural resonance" with five patterns.
+
+DLG 17
+An organ-like interface with five sound controls for different locations. A journal mentions "harmonizing frequencies to stabilize passage."
+
+DLG 18
+Crystal formations collect and amplify sounds at a focal point. The arrangement seems deliberate. Notes warn of "harmonic imbalance."
+
+DLG 19
+A locked observatory door. Through windows: astronomical equipment and journals. This must be The Traveler's research center.
+
+DLG 20
+A tree house with artifacts from original Channelwood inhabitants. Wall drawings depict the flooding of their world.
+
+DLG 21
+A cabin with nautical instruments and logbooks. One entry reads: "The brothers tampered with something they don't understand. Ship fuses with rock each day."
+
+DLG 22
+A fortress control panel with symbols matching The Traveler's journal. A warning note states: "Incorrect sequence causes lockdown."
+
+DLG 23
+A detailed map shows five sound receivers. Their connecting paths form a pattern matching a constellation in The Traveler's star charts.
+
+VAR a 0
+
+# Scripts
+SCRIPT
+start
+"""
+{
+    sayAsync dialog100
+}
+"""
