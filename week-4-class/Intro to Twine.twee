@@ -23,7 +23,7 @@ Open at your own risk (or hunger). It's in the corner of the [[kitchen|Start her
 
 <<if $looked_at_magnets == 1>>
 Oooh look there are apples in the fridge!
-<<endif>>
+<</if>>
 
 
 :: maaaaagnets {"position":"825,675","size":"100,100"}
